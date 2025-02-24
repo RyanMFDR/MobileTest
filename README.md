@@ -2,7 +2,7 @@
 
 A simple mobile application built using **React Native** with **Expo**, designed for employee management, project tracking, and user profiling.
 
-##🙏 Acknowledgement
+🙏 Acknowledgement & Notes
 I would like to express my sincere gratitude to Sekawan Media for the opportunity to participate in this internship test. This project has been a valuable learning experience, and I appreciate the chance to showcase my skills.
 
 ---
