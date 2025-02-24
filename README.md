@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+# 📱 Mobile HR Management App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple mobile application built using **React Native** with **Expo**, designed for employee management, project tracking, and user profiling.
 
-## Get started
+🙏 Acknowledgement
+I would like to express my sincere gratitude to Sekawan Media for the opportunity to participate in this internship test. This project has been a valuable learning experience, and I appreciate the chance to showcase my skills.
 
-1. Install dependencies
+---
 
+## ✨ Features
+- ✅ **Employee List** – View and manage employees.
+- ✅ **Employee Details** – Detailed view for each employee.
+- ✅ **Add, Update, and Delete Employee** – Full CRUD functionality.
+- ✅ **Project Tracking** – Visualize project tasks using charts.
+- ✅ **Profile Page** – Personal bio and portfolio links.
+
+---
+
+## 🛠️ Tech Stack
+- **React Native** (Expo)
+- **TypeScript**
+- **React Navigation**
+- **React Native Chart Kit**
+- **JSONPlaceholder API** (for dummy data)
+
+---
+
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/0b2788ec-5113-4e30-a075-fff59fe33377)
+![image](https://github.com/user-attachments/assets/388387dc-d8bc-455e-aea5-f7b10748687d)
+![image](https://github.com/user-attachments/assets/e6be1220-1e53-419a-90d5-46563b9d3f6f)
+
+---
+
+## 📥 Installation & Build
+1. Clone this repository:
    ```bash
+   git clone https://github.com/RyanMFDR/MobileTest.git
+2. Install dependencies
+    ```bash
    npm install
-   ```
+4. Run the App
+    ```bash
+   npx expo start
 
-2. Start the app
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+   
